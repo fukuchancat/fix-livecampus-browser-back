@@ -18,7 +18,6 @@
 // @match        *://lc.sun.ac.jp/*
 // @match        *://livecampus.adb.fukushima-u.ac.jp/*
 // @match        *://portal.bgu.ac.jp/*
-// @match        *://portal.bgu.ac.jp/*
 // @match        *://siweb.iuk.ac.jp/*
 // @match        *://tgulc.u-gakugei.ac.jp/*
 // @match        *://vos-lc-web01.nagaokaut.ac.jp/*
