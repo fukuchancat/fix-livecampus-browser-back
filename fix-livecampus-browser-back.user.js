@@ -37,6 +37,6 @@ window.onpopstate = () => {
   if (buttons.length) {
     buttons[0].click();
   } else {
-    alert("ブラウザバックに失敗しました。");
+    history.back();
   }
 }
