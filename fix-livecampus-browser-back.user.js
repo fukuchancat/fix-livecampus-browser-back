@@ -30,10 +30,12 @@ window.onpopstate = () => {
   // DOM中の「戻る」ボタンを探す
   const buttons = [
     document.querySelector(".icon-back"),
+    document.querySelector("img[alt='戻る']"),
+    document.querySelector("img[src$='modoru.gif']"),
     document.querySelector("h1 a")
   ].filter(button => button);
 
-  // ボタンが見つかればクリック、見つからなければアラートを出す
+  // ボタンが見つかればクリック、見つからなければ通常のブラウザバックを行う
   if (buttons.length) {
     buttons[0].click();
   } else {
