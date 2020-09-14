@@ -2,6 +2,7 @@
 // @name         fix livecampus browser back
 // @description  総合ポータルシステム LiveCampusでブラウザバックを使えるようにする
 // @author       fukuchan
+// @license      GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // @match        *://a-portal.aichi-u.ac.jp/*
 // @match        *://access.sit.ac.jp/*
 // @match        *://campus.kyushu-ns.ac.jp/*

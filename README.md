@@ -10,4 +10,4 @@
 
 ## ライセンス
 
-[GNU General Public License](/LICENSE)
+[GNU General Public License v3.0 or later](https://github.com/ia15076/fix-livecampus-browser-back/blob/master/LICENSE)
